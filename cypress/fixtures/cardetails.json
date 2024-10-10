@@ -1,0 +1,17 @@
+{
+  "cars": [
+    {
+      "brand": "Maruti Suzuki",
+      "carname": "Fronx",
+      "type": "Automatic",
+      "model": "Alpha 1.0L Turbo 6 AT Dual Tone"
+    },
+    {
+      "brand": "Tata",
+      "carname": "Altroz",
+      "type": "Automatic",
+      "model": "XZA Petrol"
+    }
+  ]
+}
+
